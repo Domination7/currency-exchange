@@ -26,8 +26,14 @@ else
   exit
 end
 
-gbrTousd = 1.30766
-eurTousd = 1.16127
-cadTousd = 0.783244
-audTousd = 0.765625
-jpyTousd = 0.00875185
+gbrTousd = 1.31016
+eurTousd = 1.16079
+cadTousd = 0.785976
+audTousd = 0.76568
+jpyTousd = 0.00880674
+
+usdTogbr = 0.763263
+usdToeur = 0.861481
+usdTocad = 1.2723
+usdToaud = 1.30603
+usdTojpy = 113.549
