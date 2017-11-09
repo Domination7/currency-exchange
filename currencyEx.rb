@@ -14,6 +14,8 @@ else
   print " Invalid code, restart!"
   exit
 end
+print "\n\n Amount of #{firstCode}: "
+firstAmount = gets.chomp
 
 print "\n\n Code for exchanged currency: "
 secondCode = gets.chomp
